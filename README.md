@@ -23,5 +23,5 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=hoho303&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=triphan2k3&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hoho303&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727" />
 </a>
